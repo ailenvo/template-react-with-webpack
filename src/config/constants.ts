@@ -1,0 +1,1 @@
+export const HYBRID_CRYTO_RSA_STANDARD = "RSAES-PKCS1-V1_5";

@@ -1,0 +1,10 @@
+a {
+  text-decoration: none !important;
+  text-decoration-style: none !important;
+  text-decoration-color: none !important;
+}
+
+img {
+  object-fit: cover;
+  object-position: center;
+}
